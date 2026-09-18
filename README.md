@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Agents for Automationbr>👯 I’m looking to collaborate on AI/ML<br>💬 Ask me about Android, AI/ML, LLM Evals, Java,Python
+🔭 I’m currently working on AI Agents for Automation<br>👯 I’m looking to collaborate on AI/ML<br>💬 Ask me about Android, AI/ML, LLM Evals, Java,Python
 
 
 # 💻 Tech Stack:
