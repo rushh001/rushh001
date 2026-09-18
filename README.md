@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Travel App<br>👯 I’m looking to collaborate on Android Dev<br>🤝 I’m looking for help with Android Dev and RestAPI<br>🌱 I’m currently learning Android Dev and Web Dev<br>💬 Ask me about Android, C,Cpp,Java,Python
+🔭 I’m currently working on AI Agents for Automationbr>👯 I’m looking to collaborate on AI/ML<br>💬 Ask me about Android, AI/ML, LLM Evals, Java,Python
 
 
 # 💻 Tech Stack:
